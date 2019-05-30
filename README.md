@@ -3,8 +3,8 @@ Dragon Ball Adventures is a turn-based game created with Java. The player can cr
 
 ## Installation
 
-Download as ZIP or clone the project.
+Clone the project or download ZIP.
 
 ## Usage
 
-Run DragonBallGUI as applicatioon
+Run DragonBallGUI as application
